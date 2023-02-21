@@ -1,0 +1,15 @@
+/Users/bsv/VSCode/C#/Examples/Example001_hello/bin/Debug/net6.0/Example001_hello
+/Users/bsv/VSCode/C#/Examples/Example001_hello/bin/Debug/net6.0/Example001_hello.deps.json
+/Users/bsv/VSCode/C#/Examples/Example001_hello/bin/Debug/net6.0/Example001_hello.runtimeconfig.json
+/Users/bsv/VSCode/C#/Examples/Example001_hello/bin/Debug/net6.0/Example001_hello.dll
+/Users/bsv/VSCode/C#/Examples/Example001_hello/bin/Debug/net6.0/Example001_hello.pdb
+/Users/bsv/VSCode/C#/Examples/Example001_hello/obj/Debug/net6.0/Example001_hello.csproj.AssemblyReference.cache
+/Users/bsv/VSCode/C#/Examples/Example001_hello/obj/Debug/net6.0/Example001_hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bsv/VSCode/C#/Examples/Example001_hello/obj/Debug/net6.0/Example001_hello.AssemblyInfoInputs.cache
+/Users/bsv/VSCode/C#/Examples/Example001_hello/obj/Debug/net6.0/Example001_hello.AssemblyInfo.cs
+/Users/bsv/VSCode/C#/Examples/Example001_hello/obj/Debug/net6.0/Example001_hello.csproj.CoreCompileInputs.cache
+/Users/bsv/VSCode/C#/Examples/Example001_hello/obj/Debug/net6.0/Example001_hello.dll
+/Users/bsv/VSCode/C#/Examples/Example001_hello/obj/Debug/net6.0/refint/Example001_hello.dll
+/Users/bsv/VSCode/C#/Examples/Example001_hello/obj/Debug/net6.0/Example001_hello.pdb
+/Users/bsv/VSCode/C#/Examples/Example001_hello/obj/Debug/net6.0/Example001_hello.genruntimeconfig.cache
+/Users/bsv/VSCode/C#/Examples/Example001_hello/obj/Debug/net6.0/ref/Example001_hello.dll
